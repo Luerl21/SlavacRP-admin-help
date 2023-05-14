@@ -81,12 +81,12 @@ https://docs.google.com/document/d/10ip8LQkliGBWYJKjxR6ugSIcHtC76QwK
 !forcename 'steamid или nickname' 'имя' - Установить игроку рп имя
 
 
-## Полехные бинды
+## Полезные бинды
 
 Файл с парой команд для облегчения входа/выхода из админ мода и cloak("[" - вход/выход из админ мода, ноклипа, клоака и профы админа; "b" - выход и вход в клоак) Закидывать в папку \GarrysMod\garrysmod\cfg\ , конфиг сам подтянется после перезахода в игру или пишите в консоль exec autoexec
 
 https://cdn.discordapp.com/attachments/462827054556119041/1097271263447240736/autoexec.cfg
 
-# Create by Luerl(Вильгельм Рихард)
+# Create by Luerl(Вильгельм Рихард STEAM_0:0:94363213)
 
 ## При неточностях писать в Discord: Luerl#0100
